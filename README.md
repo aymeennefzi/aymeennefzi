@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aymen Nefzi</h1>
 <h3 align="center">A passionate web developer from Tunisia , dedicated to crafting exceptional user experiences through innovative and elegant solutions spanning both frontend and backend development</h3>
-
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymeennefzi&label=Profile%20views&color=0e75b6&style=flat" alt="aymeennefzi" /> </p>
 
 - 🌱 I’m currently learning **SpringBoot & Angular**
