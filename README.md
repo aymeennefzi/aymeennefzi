@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymeennefzi&label=Profile%20views&color=0e75b6&style=flat" alt="aymeennefzi" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot & Angular**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **aymen.nefzi@esprit.tn**
 
