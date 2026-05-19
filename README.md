@@ -11,7 +11,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About
 
@@ -21,7 +21,7 @@ I design and deliver end-to-end solutions — from robust backend APIs with **.N
 
 🎯 Currently preparing for the **Certified Kubernetes Administrator (CKA)** certification.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@ I design and deliver end-to-end solutions — from robust backend APIs with **.N
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
----
+
 
 <div align="center">
 
