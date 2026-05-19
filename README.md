@@ -19,6 +19,8 @@ Software Engineer specialized in **full stack development** and **DevOps**, with
 
 I design and deliver end-to-end solutions — from robust backend APIs with **.NET / ASP.NET** to dynamic frontend interfaces with **Angular**, while ensuring reliable delivery through automated **CI/CD pipelines**, **containerization**, and **orchestration**.
 
+🎯 Currently preparing for the **Certified Kubernetes Administrator (CKA)** certification.
+
 ---
 
 ## 🛠️ Tech Stack
