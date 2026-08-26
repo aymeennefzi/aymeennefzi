@@ -5,7 +5,7 @@
 
 <!-- Tagline -->
 <p>
-  <a href="mailto:aymen.nefzi@esprit.tn"><img src="https://img.shields.io/badge/Email-aymen.nefzi%40esprit.tn-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:aymennefzi67@gmail.com"><img src="https://img.shields.io/badge/Email-aymen.nefzi%40esprit.tn-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aymen-nefzi-831b6321b/"><img src="https://img.shields.io/badge/LinkedIn-Aymen%20Nefzi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
